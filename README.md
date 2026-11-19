@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Senior Front-End Mentor & Software Developer, from Egypt</h3>
+<h3 align="center">Senior Front-End Mentor & Software Developer</h3>
 
 ###
 
